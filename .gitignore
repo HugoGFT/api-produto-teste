@@ -396,6 +396,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/CrudTesteTotvs/meubanco.db
-/CrudTesteTotvs/meubanco.db-shm
-/CrudTesteTotvs/meubanco.db-wal
